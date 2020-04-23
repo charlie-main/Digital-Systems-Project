@@ -1,7 +1,8 @@
 # Digital-Systems-Project
 
-In order to run this software, the follwoing software packages need be installed:
+## In order to run this software, the follwoing software packages need be installed:
 
+```
 Python 3.6 – programming language used
 	https://www.python.org/downloads/release/python-360/
 
@@ -31,3 +32,4 @@ random – number manipulation library
 
 collections – data types library
 	https://pypi.org/project/collections2/
+```
